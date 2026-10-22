@@ -1,0 +1,14 @@
+{
+  "name": "kaizas-fix-bug",
+  "version": "1.0.0",
+  "private": true,
+  "description": "KAIZAS FIX BUG Open Jasa website",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "devDependencies": {
+    "vite": "^6.4.1"
+  }
+}
